@@ -1,15 +1,3 @@
 name: scijava-jupyter-kernel
-channels:
-  - damianavila82
-  - conda-forge
-  - hanslovsky
 dependencies:
-  - python
-  - numpy
-  - scikit-image
-  - matplotlib
-  - pandas
-  - bokeh
-  - rise
   - scijava-jupyter-kernel
-  - imglib2-imglyb
