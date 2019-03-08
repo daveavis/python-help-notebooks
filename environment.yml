@@ -12,4 +12,4 @@ dependencies:
   - bokeh
   - rise
   - scijava-jupyter-kernel
-- imglib2-imglyb
+  - imglib2-imglyb
